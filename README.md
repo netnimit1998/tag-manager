@@ -14,6 +14,8 @@ When you install this version of Matomo Tag Manager, users with admin access wil
 
 Matomo Tag Manager lets you manage and unify all your tracking and marketing tags. Tags are also known as snippets or pixels. Such tags are typically JavaScript code or HTML and let you integrate various features into your site in just a few clicks, for example:
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=a61c5de7c1c9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 * Analytics
 * Conversion Tracking
 * Newsletter signups
